@@ -1,0 +1,1 @@
+f=open('C:/Users/user/OneDrive/Desktop/PLACEMENT/PYTHON/newfile.py','w')
