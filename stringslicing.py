@@ -1,0 +1,12 @@
+str1='HELLO PYTHON'
+print(str1[-4:])
+print(str1[-9:-5])
+print(str1[-9:7])
+print(str1[3:-5])
+print(str1[3:7])
+print(str1[6:12])
+print(str1[0:5])
+print(str1[-4:])
+print(str1[:-4])
+print(str1[0:11:2])
+print(str1[0:11:3])
